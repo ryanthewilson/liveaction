@@ -22,11 +22,15 @@
   },
   "homepage": "https://github.com/ryanthewilson/liveaction#readme",
   "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
     "@vitejs/plugin-react": "^5.1.0",
     "autoprefixer": "^10.4.21",
+    "jsdom": "^27.1.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.16",
-    "vite": "^7.2.1"
+    "vite": "^7.2.1",
+    "vitest": "^4.0.7"
   },
   "dependencies": {
     "react": "^19.2.0",
